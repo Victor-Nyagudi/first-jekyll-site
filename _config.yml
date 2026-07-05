@@ -19,3 +19,4 @@ defaults:
       layout: "default"
 
 url: "https://victor-nyagudi.github.io"
+baseurl: "/first-jekyll-site"
