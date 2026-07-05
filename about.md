@@ -1,6 +1,7 @@
 ---
 layout: default
 title: My About Page
+permalink: /about/
 ---
 
 # About Page
