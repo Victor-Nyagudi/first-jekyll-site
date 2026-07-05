@@ -20,3 +20,6 @@ defaults:
 
 url: "https://victor-nyagudi.github.io"
 baseurl: "/first-jekyll-site"
+
+# Build settings
+permalink: /:categories/:title
