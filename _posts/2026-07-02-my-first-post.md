@@ -1,6 +1,7 @@
 ---
 layout: post
 author: vick
+title: "My First Post"
 ---
 
 A banana is an edible fruit – botanically a berry – produced by several
